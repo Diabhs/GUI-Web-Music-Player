@@ -8,6 +8,15 @@
       
     --------------------------------------------------------------------------
     
+      TODO:
+           - Create About Page
+           - Add Video Features
+           - Add Search Function
+           - Add Sorting Function
+           - And more when I think of them :)
+      
+    --------------------------------------------------------------------------
+    
       This is a simple to use online webplayer for music, and could possibly
       add video in the near future.
       
